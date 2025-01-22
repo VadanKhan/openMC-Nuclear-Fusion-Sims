@@ -1,6 +1,6 @@
 #NB 7% Li6 from previous study is optimal
 
-#OPTIMUM COMBO
+
 ( liquid_lithium(7% Li6), Helium, Zirconium, Graphite )
 TBR=1.5873550399607135 with standard deviation of 0.015906265014296022
 Heating=11.846972594984459MeV per source neutron with standard deviation of 101576.76169972529
@@ -30,3 +30,14 @@ damage=29635.26545852604 with standard deviation of 1273.8310102841351
 TBR=0.8825003536270735 with standard deviation of 0.018152506461773608
 Heating=5.906440964466539MeV per source neutron with standard deviation of 104888.45527095313
 damage=10723.870672350942 with standard deviation of 846.7614094304112
+
+( liquid_lithium(7% Li6), Helium, Zirconium, Tungsten )
+TBR=1.4669254222626666 with standard deviation of 0.014170301976721391
+Heating=11.262597946005029MeV per source neutron with standard deviation of 89984.14762043198
+damage=40920.688233496534 with standard deviation of 1622.1986676851322
+
+#OPTIMUM COMBO
+( liquid_lithium(7% Li6), Helium, Zirconium, Beryllium )
+TBR=1.596655638269928 with standard deviation of 0.01300479507066544
+Heating=11.864917439624916MeV per source neutron with standard deviation of 80625.3547893572
+damage=40606.22802427935 with standard deviation of 1428.6789488775037
